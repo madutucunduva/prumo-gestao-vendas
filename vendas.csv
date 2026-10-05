@@ -1,0 +1,9 @@
+data,vendedor,produto,quantidade,valor
+2026-07-15,Ana,Pintura,2,35000.0
+2026-08-03,Pedro,Limpeza de Fachada,3,9500.0
+2026-08-21,Camila,Revitalização de Fachada,1,120000.0
+2026-09-10,Pedro,Pintura,1,42000.0
+2026-09-28,Ana,Limpeza de Fachada,2,12000.0
+2026-10-02,Camila,Revitalização de Fachada,1,95000.0
+2026-10-05,Ana,Pintura,1,25000.0
+2026-09-09,Pedro,Revitalização de Fachada,1,50000.0

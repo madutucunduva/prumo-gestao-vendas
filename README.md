@@ -2,7 +2,7 @@
 
 Sistema web de cadastro e gestão de vendas para empresas de serviços de fachada, com login, dashboard de indicadores e gráficos interativos.
 
-🔗 **[Testar o sistema online](COLE-O-LINK-AQUI)** · Usuário: `ADM` · Senha: `123`
+🔗 **[Testar o sistema online](https://prumo-gestao-vendas.streamlit.app/)** · Usuário: `ADM` · Senha: `123`
 
 ![Dashboard do Prumo](demo.png)
 
